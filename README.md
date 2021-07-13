@@ -26,8 +26,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ```text
 No Activity tracked this Week
 ```
-START_SECTION:waka
-END_SECTION:waka
 
 🤔💻**The Most of favorite**
 
