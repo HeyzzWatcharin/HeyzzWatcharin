@@ -23,11 +23,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 📊 **This Week I Spent My Time On:**
 
-<!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 🤔💻**The Most of favorite**
 
@@ -39,6 +39,9 @@ No Activity tracked this Week
 [![Tyscript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 </br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
 
