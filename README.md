@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🚀 I’m currently learning Data Structures and Algorithms on [hackerrank](https://www.hackerrank.com/watcharinrachad1);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: watcharinrachadet123@gmail.com;
-<!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
+- 📝 [Resume](https://drive.google.com/drive/folders/1LyQkXOIA119E6iIUvSohPrJvNhRDsjcq?usp=sharing).
 
 </br>
 
