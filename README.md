@@ -27,7 +27,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 No Activity tracked this Week
 ```
 
-🤔💻**The Most of favorite**
+🤔💻**The Most Used**
 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
