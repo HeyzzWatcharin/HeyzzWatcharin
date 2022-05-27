@@ -31,5 +31,3 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 [![Tyscript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 </br>
-
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyzzWatcharin&theme=react&layout=compact" />
