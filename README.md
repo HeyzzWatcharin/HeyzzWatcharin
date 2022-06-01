@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Watcharin Rachadet</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Watcharin Rachadet</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/watcharin-rachadet-56a561211/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004957666951)
