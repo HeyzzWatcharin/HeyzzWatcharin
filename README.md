@@ -30,4 +30,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Tyscript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
+[![Go Badge](https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=go&logoColor=white)]()
+[![Web3.Js Badge](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3&logoColor=white)]()
+[![Ethers.Js Badge](https://img.shields.io/badge/Ethers.js-000000?style=for-the-badge&logo=ethers&logoColor=white)]()
+[![Cosm.Js Badge](https://img.shields.io/badge/Cosm.js-000000?style=for-the-badge&logo=Cosm&logoColor=white)]()
 </br>
